@@ -42,7 +42,7 @@ Ahora es necesario enlazar todos los elementos que instalamos y seleccionar el i
 En este caso si no te marca alguna opcion en la que diga anaconda3, deberás buscar la ubicación manualmente en la opción "enter interpreter path".
 
 Finalmente se crea un ambiente en Jupyter, para esto dirígete a view-> command palette-> Jupyter: Create new blank Jupyter Notebook.
-<div align="center"><img src="https://edu.codigoiot.com/pluginfile.php/12775/mod_lesson/page_contents/2491/Entorno_09.png"></div>
+<div align="center"><img src="Screenshot from 2022-06-05 21-35-38.png"></div>
 Ahora verifica que el ambiente esté configurado correctamente con el siguiente programa:
 
 ~~~
