@@ -43,7 +43,7 @@ En este caso si no te marca alguna opcion en la que diga anaconda3, deberás bus
 
 Finalmente se crea un ambiente en Jupyter, para esto dirígete a view-> command palette-> Jupyter: Create new blank Jupyter Notebook.
 
-<img src="https://edu.codigoiot.com/pluginfile.php/12775/mod_lesson/page_contents/2491/Entorno_09.png" width="500px" align="right">
+<img src="https://edu.codigoiot.com/pluginfile.php/12775/mod_lesson/page_contents/2491/Entorno_09.png" align="right">
 Ahora verifica que el ambiente esté configurado correctamente con el siguiente programa:
 
 ~~~
