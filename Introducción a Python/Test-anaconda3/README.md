@@ -17,9 +17,8 @@ Para configurar Visual Studio Code desde la terminal, se necesita instalar Anaco
 https://www.anaconda.com/products/individual
 
 Y selecciona el instalador de Linux, aparecerá lo siguiente:
-<p> 
-<img src="https://edu.codigoiot.com/pluginfile.php/12775/mod_lesson/page_contents/2490/Entorno_03.png" width="500px" align="right">
-</p>
+<div align="center"><img src="https://i.ibb.co/nnhvt5R/descargar-anaconda3.png"></div>
+
 No es necesario crear una cuenta en Anconda, solo descarga el archivo. Para instalar, ejecuta el siguiente comando en terminal: 
 
 ~~~
@@ -34,15 +33,19 @@ sudo apt-get install jupyter
 ~~~
 ### 4.- Agregar extensiones a VSC
 Deberás descargar los siguientes pluggins desde la pestaña de extensiones en VSC:
-<img src="https://edu.codigoiot.com/pluginfile.php/12775/mod_lesson/page_contents/2490/Entorno_04.png" width="500px" align="right">
+<div align="center"><img src="https://i.ibb.co/BshcS6R/pluggins.png"></div>
+
 
 ### 5.- Configuración de ambiente
 Ahora es necesario enlazar todos los elementos que instalamos y seleccionar el intérprete en VSC, para esto ve a view-> command palette-> Python: Select interpreter.
-<img src="https://edu.codigoiot.com/pluginfile.php/12775/mod_lesson/page_contents/2491/Entorno_08.png" width="500px" align="right">
+<div align="center"><img src="https://i.ibb.co/8Pjwm93/comand-palette.png"></div>
+
+<div align="center"><img src="https://i.ibb.co/Qk2Bnnc/select-interpreter.png"></div>
+
 En este caso si no te marca alguna opcion en la que diga anaconda3, deberás buscar la ubicación manualmente en la opción "enter interpreter path".
 
 Finalmente se crea un ambiente en Jupyter, para esto dirígete a view-> command palette-> Jupyter: Create new blank Jupyter Notebook.
-<div align="center"><img src="/home/adrian/Pictures/jupyter"></div>
+<div align="center"><img src="https://i.ibb.co/dfkXF0t/create-new-jupyter.png"></div>
 Ahora verifica que el ambiente esté configurado correctamente con el siguiente programa:
 
 ~~~
@@ -51,4 +54,6 @@ arr = np.array([100, 2.7, 8.3333, 4, 0.5])
 print(arr) 
 print(type(arr)) 
 ~~~
+
+<div align="center"><img src="https://i.ibb.co/1T24GVW/test-anaconda3.png"></div>
  Has terminado la configuración del entorno y está listo para trabajar desde VSC en Ubuntu 20.04. 
