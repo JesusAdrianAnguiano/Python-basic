@@ -42,13 +42,13 @@ Ahora es necesario enlazar todos los elementos que instalamos y seleccionar el i
 En este caso si no te marca alguna opcion en la que diga anaconda3, deberás buscar la ubicación manualmente en la opción "enter interpreter path".
 
 Finalmente se crea un ambiente en Jupyter, para esto dirígete a view-> command palette-> Jupyter: Create new blank Jupyter Notebook.
-
-<img src="https://edu.codigoiot.com/pluginfile.php/12775/mod_lesson/page_contents/2491/Entorno_09.png" align="right">
+<div align="center"><img src="https://edu.codigoiot.com/pluginfile.php/12775/mod_lesson/page_contents/2491/Entorno_09.png"></div>
 Ahora verifica que el ambiente esté configurado correctamente con el siguiente programa:
 
 ~~~
 import numpy as np 
-arr = np.array([100, 2.7, 8.3333, 4, 0.5]) print(arr) 
+arr = np.array([100, 2.7, 8.3333, 4, 0.5]) 
+print(arr) 
 print(type(arr)) 
 ~~~
  Has terminado la configuración del entorno y está listo para trabajar desde VSC en Ubuntu 20.04. 
