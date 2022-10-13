@@ -3,7 +3,5 @@ En este repositorio se encuentra la documentación de algunos ejercicios básico
 ***
 # CHEAT SHEET
 
-<p> 
-<img src="https://edu.codigoiot.com/pluginfile.php/12773/mod_lesson/page_contents/2483/python_04.png" width="500px" align="right">
-</p>
+<div align="center"><img src="https://i.ibb.co/tQT6VvX/cheatsheet.png"></div>
 
